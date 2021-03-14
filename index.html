@@ -15,3 +15,21 @@
 </head>
 <nav> Weather Dashboard</nav>
 <body>
+  <div class = "container">
+    <div class = "row">   
+        <div class = "col-md-3 searchArea" >
+            <!-- search button --->
+            <p>Search for a City:</p>
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="City Name" aria-label="City Name" aria-describedby="button-addon2" id="cityInput">
+                <button class="btn btn-primary fas fa-search" type="button" id="searchBtn"></button>
+            </div>
+            <div>
+            <div class = "pastCity"></div>
+            </div>
+            <div>
+                <button class="btn btn-danger" id="clearHist">Clear History</button>
+            </div>
+        </div>
+        <div class = "col-md-9 displayDashboard">
+            <div class = "row">
