@@ -1,3 +1,8 @@
+![screenshot](https://user-images.githubusercontent.com/77707975/111054303-89830700-8439-11eb-86d9-ccafa6403cd7.png)
+
+
+
+
 # its-a-weather-app
 My functional weather app
 ## User Story
